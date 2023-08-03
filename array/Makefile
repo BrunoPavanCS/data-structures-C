@@ -1,3 +1,6 @@
+# Rules -> name and dependencies
+# all -> default rule, starting point to command 'make'
+
 CFLAGS = -Wall -Werror
 
 all: array_client
